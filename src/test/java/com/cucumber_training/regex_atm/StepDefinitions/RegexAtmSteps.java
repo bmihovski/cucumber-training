@@ -10,9 +10,10 @@ public class RegexAtmSteps {
     System.out.println();
   }
   
-  @When("^I transfer \\$(\\d+) from my (\\w+) into my (\\w+)$")
+  @When("^I transfer \\$(\\d+) from my (\\w+) Account into my (\\w+) Account$")
   public void iTransfer$FromMyAccount(int amount, String from_account, String to_account) {
 	  System.out.printf("The amount of $%d, being transferred from %s to %s", amount, from_account, to_account);
+	  System.out.println();
   }
 
 }
