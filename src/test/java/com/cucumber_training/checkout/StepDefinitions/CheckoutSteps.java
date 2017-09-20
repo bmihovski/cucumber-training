@@ -1,4 +1,4 @@
-package com.cucumber_trainging.checkout.StepDefinitions;
+package com.cucumber_training.checkout.StepDefinitions;
 
 import cucumber.api.java.en.*;
 
