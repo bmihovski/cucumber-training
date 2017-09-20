@@ -1,4 +1,4 @@
-package com.cucumber_training.checkout_test;
+package com.cucumber_training_implementation.checkout;
 
 public class Checkout {
 	   private int runningTotal = 0;

@@ -1,4 +1,4 @@
-package com.cucumber_training.tic_tac_toe.StepDefinitions;
+package com.cucumber_training_bdd.tic_tac_toe.StepDefinitions;
 
 import cucumber.api.DataTable;
 import cucumber.api.java.en.*;

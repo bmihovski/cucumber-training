@@ -1,4 +1,4 @@
-package com.cucumber_training.regex_matching.StepDefinitions;
+package com.cucumber_training_bdd.regex_matching.StepDefinitions;
 
 import cucumber.api.java.en.Given;
 

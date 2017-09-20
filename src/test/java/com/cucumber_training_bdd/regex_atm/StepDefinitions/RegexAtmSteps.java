@@ -1,4 +1,4 @@
-package com.cucumber_training.regex_atm.StepDefinitions;
+package com.cucumber_training_bdd.regex_atm.StepDefinitions;
 
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.When;
