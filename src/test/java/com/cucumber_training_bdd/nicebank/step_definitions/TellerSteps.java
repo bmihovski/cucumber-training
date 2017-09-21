@@ -1,5 +1,5 @@
 package com.cucumber_training_bdd.nicebank.step_definitions;
-import com.cucumber_training_implementation.nicebank.support.KnowsTheDomain;
+import com.cucumber_training_bdd.nicebank.support.KnowsTheDomain;
 
 import cucumber.api.java.en.When;
 
