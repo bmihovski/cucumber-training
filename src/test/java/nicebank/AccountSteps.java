@@ -1,12 +1,10 @@
-package com.cucumber_training_bdd.nicebank.step_definitions;
-import com.cucumber_training_bdd.nicebank.support.KnowsTheDomain;
-import com.cucumber_training_bdd.nicebank.transforms.MoneyConverter;
+package nicebank;
+import org.junit.Assert;
 
-import cucumber.api.java.en.*;
-import nicebank.Money;
 import cucumber.api.Transform;
-
-import org.junit.*;
+import cucumber.api.java.en.Given;
+import support.KnowsTheDomain;
+import transforms.MoneyConverter;
 
 public class AccountSteps {
 	  KnowsTheDomain helper;

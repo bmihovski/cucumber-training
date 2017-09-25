@@ -1,7 +1,7 @@
-package com.cucumber_training_bdd.nicebank.step_definitions;
+package nicebank;
 import static org.junit.Assert.assertEquals;
 
-import com.cucumber_training_bdd.nicebank.support.KnowsTheDomain;
+import support.KnowsTheDomain;
 
 import cucumber.api.java.en.Then;
 

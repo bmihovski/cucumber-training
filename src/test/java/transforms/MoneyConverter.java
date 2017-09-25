@@ -1,4 +1,4 @@
-package com.cucumber_training_bdd.nicebank.transforms;
+package transforms;
 
 import cucumber.api.Transformer;
 import nicebank.Money;

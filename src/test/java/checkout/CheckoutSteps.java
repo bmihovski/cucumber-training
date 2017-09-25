@@ -1,10 +1,10 @@
-package com.cucumber_training_bdd.checkout.step_definitions;
+package checkout;
 
 import cucumber.api.java.en.*;
 
 import static org.junit.Assert.*;
 
-import com.cucumber_training_implementation.checkout.Checkout;
+import checkout.Checkout;
 
 public class CheckoutSteps {
     Checkout checkout;

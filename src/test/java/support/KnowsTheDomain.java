@@ -1,4 +1,4 @@
-package com.cucumber_training_bdd.nicebank.support;
+package support;
 
 import nicebank.Account;
 import nicebank.CashSlot;
