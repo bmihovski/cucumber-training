@@ -6,7 +6,7 @@
  * We make no guarantees that this code is fit for any purpose. 
  * Visit http://www.pragmaticprogrammer.com/titles/srjcuc for more book information.
 ***/
-package com.cucumber_training_bdd.nicebank.step_definitions;
+package nicebank;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

@@ -1,7 +1,7 @@
 package com.cucumber_training_bdd.nicebank.transforms;
 
 import cucumber.api.Transformer;
-import com.cucumber_training_bdd.nicebank.step_definitions.*;
+import nicebank.Money;
 
 public class MoneyConverter extends Transformer<Money>{
 	public Money transform(String amount) {

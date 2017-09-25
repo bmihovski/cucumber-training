@@ -3,6 +3,7 @@ import com.cucumber_training_bdd.nicebank.support.KnowsTheDomain;
 import com.cucumber_training_bdd.nicebank.transforms.MoneyConverter;
 
 import cucumber.api.java.en.*;
+import nicebank.Money;
 import cucumber.api.Transform;
 
 import org.junit.*;
